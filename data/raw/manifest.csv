@@ -1,1 +1,4 @@
-insurer,fy_end,source_url,local_path,sha256,downloaded_at,status
+﻿insurer,fy_end,source_url,local_path,sha256,downloaded_at,status
+HDFC Life,2025-03-31,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/integrated-annual-report-fy-2024-2025.pdf,data/raw/hdfc_fy25.pdf,af968c2a58687103ab312a71010aa740d58b9d7cc0e21664c7b50c2e77bb4a4d,2026-10-22T23:59:35,ok
+HDFC Life,2026-03-31,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf,data/raw/hdfc_fy26.pdf,b7a552082ee124037a5075412e3680b21ca6ede0c1d4c2c1c6a032afc0490e9c,2026-10-22T23:59:35,ok
+SBI Life,2026-03-31,https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_financial-statements,data/raw/sbi_fy26_fs.pdf,52ebd4d3f644e8b5259d0cbfe3e52eee9538b219c83c552d06ccc699814d1e9b,2026-10-22T23:59:35,ok (financial statements section only)
