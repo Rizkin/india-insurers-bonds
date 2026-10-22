@@ -1,0 +1,16 @@
+{
+  "insurer": "",
+  "fy_end": "YYYY-03-31",
+  "instrument": "FRA|bond_forward|IRS|IRF|other",
+  "notional_outstanding_inr_cr": null,
+  "notional_traded_in_year_inr_cr": null,
+  "mtm_inr_cr": null,
+  "hedge_scope": "all|highly_effective_only|unclear",
+  "counterparties": [],
+  "settlement_buckets": [],
+  "unit_as_printed": "",
+  "page": 0,
+  "snippet": "",
+  "pdf_sha256": "",
+  "extractor": "glm|kimi"
+}

@@ -1,0 +1,11 @@
+pymupdf
+pdfplumber
+pandas
+duckdb
+httpx
+selectolax
+playwright
+pydantic
+statsmodels
+linearmodels
+matplotlib

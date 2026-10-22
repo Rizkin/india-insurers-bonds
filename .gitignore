@@ -1,0 +1,7 @@
+data/raw/*
+!data/raw/manifest.csv
+!data/raw/.gitkeep
+__pycache__/
+.venv/
+*.duckdb.wal
+.env
