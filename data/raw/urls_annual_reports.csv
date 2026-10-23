@@ -1,0 +1,51 @@
+insurer,fy,url,status,note
+HDFC Life,FY22,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/HDFC-Life-IR22-040622.pdf,found on IR page,CONFIRM it is the FY22 integrated report (file named IR22; page also lists Assurance-Report-FY-2021-22.pdf)
+HDFC Life,FY23,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/HDFC-Life-Integrated-Annual-Report-FY2022-23.pdf,found on IR page,
+HDFC Life,FY24,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/integrated-annual-report-fy-2023-2024.pdf,found on IR page,
+HDFC Life,FY25,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/integrated-annual-report-fy-2024-2025.pdf,downloaded,in manifest
+HDFC Life,FY26,https://www.hdfclife.com/content/dam/hdfclifeinsurancecompany/about-us/pdf/investor-relations/financial-information/annual-reports/Integrated-Annual-Report-FY-2025-26.pdf,downloaded,in manifest
+SBI Life,FY22,https://www.sbilife.co.in/documents/20118/433634/integrated-annual-report-2021-22.pdf/5651b7a7-65e2-eddb-b8b0-8d95c9321df9?version=1.2&t=1774587651630&download=true,found on IR page,
+SBI Life,FY23,https://www.sbilife.co.in/documents/20118/433634/Annual-Report+FY2022-23.pdf/8d2b774e-9b60-4b16-d6d2-884690b5e74c?version=1.2&t=1774587651630&download=true,found on IR page,
+SBI Life,FY24,https://www.sbilife.co.in/documents/20118/433634/integrated-annual-report.pdf/7a2546d9-cdc9-a536-9636-56efa62c5eba?version=1.0&t=1775711641802&download=true,found on IR page,filename generic; confirm it is FY2023-24 (page label Annual Report FY 2023-2024)
+SBI Life,FY25,https://www.sbilife.co.in/documents/20118/433634/annual-report-fy-2024-2025.pdf/c1f15bdc-8a07-3d4b-19a1-48a9432069c7?version=1.2&t=1774587651630&download=true,found on IR page,needed to confirm the FY25 notional comparative
+SBI Life,FY26,https://www.sbilife.co.in/documents/d/annual-reports-fy-2025-26/microsites_annualreports26_pdf_financial-statements,downloaded (FS section only),full report via https://www.sbilife.co.in/web/annual-reports-fy-2025-26/index
+ICICI Pru Life,FY22,https://www.icicilife.com/content/dam/icicipru/about-us/FinancialInformation/AnnualReports/FY2022-AnnualReport.pdf,found on IR page,site moved to icicilife.com
+ICICI Pru Life,FY23,https://www.icicilife.com/content/dam/icicipru/about-us/FinancialInformation/AnnualReports/annual_report_fy2023.pdf,found on IR page,
+ICICI Pru Life,FY24,https://www.icicilife.com/content/dam/icicipru/about-us/FinancialInformation/AnnualReports/annual_reports_fy2024.pdf,found on IR page,
+ICICI Pru Life,FY25,https://www.icicilife.com/content/dam/icicipru/about-us/FinancialInformation/AnnualReports/annual_reports_fy2025.pdf,found on IR page,
+ICICI Pru Life,FY26,https://www.icicilife.com/content/dam/icicipru/about-us/FinancialInformation/AnnualReports/annual_reports_fy2026.pdf,found on IR page,
+Axis Max Life,FY22,https://www.axismaxlife.com/static-page/assets/homepage/assets/content/dam/corporate/pdfs/InvestorRelations/Max%20Life%20Insurance_AR_2021-22.pdf,found on LODR page,
+Axis Max Life,FY23,https://www.axismaxlife.com/static-page/assets/homepage/assets/content/dam/corporate/pdfs/InvestorRelations/Max%20Life%20Insurance_AR_2022-23.pdf,found on LODR page,
+Axis Max Life,FY24,https://www.axismaxlife.com/static-page/assets/homepage/Max_Life_Annual_report_FY_2023_24_d8382c3b0a.pdf,found on LODR page,
+Axis Max Life,FY25,https://www.axismaxlife.com/static-page/assets/homepage/Axis+Max+Life+Insurance_IR+2024-25_Web+Upload+1.pdf,found on LODR page,
+Axis Max Life,FY26,https://www.axismaxlife.com/static-page/assets/homepage/Integrated_Annual_Report_FY_2025_26_22578128ca.pdf,found on LODR page,
+Tata AIA,FY22,https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/pdf/corporate-disclosure/Annual-Report-Tata-AIA-21-22.pdf,found on corporate-disclosure page,
+Tata AIA,FY23,https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/pdf/corporate-disclosure/Annual-Report-2022-23-final.pdf,found on corporate-disclosure page,
+Tata AIA,FY24,https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/pdf/corporate-disclosure/Annual-Report-FY-23-24.pdf,found on corporate-disclosure page,
+Tata AIA,FY25,https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/pdf/corporate-disclosure/Tata-AIA-Annual-Report-2024-2025.pdf,found on corporate-disclosure page,
+Tata AIA,FY26,https://www.tataaia.com/content/dam/tataaialifeinsurancecompanylimited/pdf/corporate-disclosure/Annual-Report-FY-2025-26.pdf,found on corporate-disclosure page,
+Bajaj Life,FY22,https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/financialinformation/Annual%20Report/2021-22/Q1/BALIC-Annual-Report-FY-2021-22.pdf,found on about-us page,site is now bajajlifeinsurance.com
+Bajaj Life,FY23,https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/financialinformation/Annual%20Report/2022-23/Q1/BALIC-Annual-Report-FY-2022-23.pdf,found on about-us page,
+Bajaj Life,FY24,https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/financialinformation/Annual%20Report/2023-24/Q1/BALIC-Annual-Report-FY-2023-24.pdf,found on about-us page,
+Bajaj Life,FY25,https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/financialinformation/Annual%20Report/2024-25/Q1/BALIC-Annual-Report-FY-2024-25.pdf,found on about-us page,
+Bajaj Life,FY26,https://www.bajajlifeinsurance.com/content/dam/balic-web/pdf/financialinformation/Annual%20Report/2025-26/Q1/Bajaj-Life-Annual-Report-FY-2025-26.pdf,found on about-us page,
+Aditya Birla Sun Life,FY22,https://lifeinsurance.adityabirlacapital.com/uploads/Annual_Report_FY_2021_22_0c19e118c2.pdf,found on investors page,
+Aditya Birla Sun Life,FY23,https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_Annual_Report_FY_23_db81c28514.pdf,found on investors page,
+Aditya Birla Sun Life,FY24,https://lifeinsurance.adityabirlacapital.com/uploads/Annual_Report_FY_2023_24n1_3bb3da3549.pdf,found on investors page,
+Aditya Birla Sun Life,FY25,https://lifeinsurance.adityabirlacapital.com/uploads/ABSLI_AR_25_Web_Final_Single_Page_2_1_4c72fc6e02.pdf,found on investors page,
+Aditya Birla Sun Life,FY26,https://lifeinsurance.adityabirlacapital.com/uploads/Annual_Report_25_26_25929dbf98.pdf,found on investors page,
+Kotak Life,FY22,https://www.kotaklife.com/assets/images/uploads/why_kotak/Kotak_Life_Insurance_Annual_Report_2021-22.pdf,found on corporate-governance page,
+Kotak Life,FY23,https://www.kotaklife.com/assets/images/uploads/why_kotak/Kotak_Life_Insurance_Annual_Report_2022-23.pdf,found on corporate-governance page,
+Kotak Life,FY24,https://www.kotaklife.com/assets/images/uploads/why_kotak/Kotak_Mahindra_Life_Insurance_Company_Limited_FY_2024.pdf,found on corporate-governance page,
+Kotak Life,FY25,https://www.kotaklife.com/assets/images/uploads/why_kotak/KotakMahindraLifeInsuranceCompany.pdf,found on corporate-governance page,
+Kotak Life,FY26,https://www.kotaklife.com/assets/images/uploads/why_kotak/Kotak_Mahindra_Life_Insurance_Company_Limited__AR_2025-202611.pdf,found on corporate-governance page,
+PNB MetLife,FY22,https://www.pnbmetlife.com/content/dam/pnb-metlife/docs/annual-reports/PNB_MetLife_Annual_Report_2022.pdf,found on IR page,CONFIRM year covered (file named 2022; next is 2022-23)
+PNB MetLife,FY23,https://www.pnbmetlife.com/content/dam/pnb-metlife/docs/annual-reports/PNB_MetLife_Annual_Report_2022-23.pdf,found on IR page,
+PNB MetLife,FY24,https://www.pnbmetlife.com/content/dam/pnb-metlife/docs/annual-reports/PNB_MetLife_Annual_Report_2023-24.pdf,found on IR page,
+PNB MetLife,FY25,https://www.pnbmetlife.com/content/dam/pnb-metlife/docs/annual-reports/PNB_MetLife_Annual_Report_2024-25.pdf,found on IR page,
+PNB MetLife,FY26,https://www.pnbmetlife.com/content/dam/pnb-metlife/docs/annual-reports/PNB_MetLife_Annual_Report_2025-26.pdf,found on IR page,
+LIC,FY22,https://licindia.in/documents/20121/92529/LIC-Annual-Report-2021-22-%282%29.pdf/76ce5926-b78f-19c6-3e3e-ccde656b9f71?t=1668579053978,found on annual-reports page,
+LIC,FY23,https://licindia.in/documents/20121/92529/LIC-AR-2022-23.pdf/9211aee0-7c0c-f1fb-e4e5-b3a4d951a7b1?t=1691475116093,found on annual-reports page,
+LIC,FY24,https://licindia.in/documents/20121/92529/LIC+of+India_AR_FY+2023_24.pdf/6c557500-d9db-bae6-429c-6bb3ca0082d8?t=1722077796687,found on annual-reports page,
+LIC,FY25,https://www.bseindia.com/xml-data/corpfiling/attachhis/7eecfc8a-4aeb-4c89-bdec-5b8ed7193156.pdf,found on BSE annual-reports tab,BSE scrip 543526
+LIC,FY26,https://www.bseindia.com/xml-data/corpfiling/attachhis/bbfc5caf-c294-4e5a-b33d-7cc543f0479d.pdf,found on BSE annual-reports tab,BSE scrip 543526

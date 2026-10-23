@@ -5,3 +5,4 @@ __pycache__/
 .venv/
 *.duckdb.wal
 .env
+!data/raw/urls_annual_reports.csv
